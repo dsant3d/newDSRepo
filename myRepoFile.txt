@@ -2,4 +2,6 @@ Something is written in this file. Done.
 
 Add something to this file
 
-Git hub Changes
+Something is written in this file
+
+Fixed Conflict
